@@ -1,2 +1,1 @@
-# qx
-qx rule
+Quan X rules
