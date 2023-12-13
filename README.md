@@ -1,1 +1,1 @@
-Quan X rules
+自用 quanx 配置
