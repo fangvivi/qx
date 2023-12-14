@@ -1,5 +1,8 @@
 # proxy
 
+# google
+host, google.com
+
 # steam
 host-suffix, steamcommunity.com
 
@@ -8,3 +11,5 @@ host-suffix, redd.it
 host-suffix, reddit.com
 host-suffix, redditmedia.com
 host-suffix, redditstatic.com
+
+host, duolingo.com
