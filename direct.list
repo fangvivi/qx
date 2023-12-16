@@ -2,3 +2,8 @@
 host-suffix, hotmail.com
 host-suffix, bilibili.com
 host-suffix, qq.com
+
+# microsoft
+host-suffix, live.com
+host-suffix, live.net
+host-keyword, onedrive
