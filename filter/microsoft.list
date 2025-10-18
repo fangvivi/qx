@@ -1,3 +1,7 @@
 HOST-SUFFIX, office.com, Microsoft
 HOST-SUFFIX, office365.com, Microsoft
 HOST-SUFFIX, live.com, Microsoft
+HOST-SUFFIX, microsoft.com, Microsoft
+HOST-SUFFIX, microsoftonline.com, Microsoft
+HOST-SUFFIX, officeapps.live.com, Microsoft
+HOST-SUFFIX, sky.com, Microsoft
