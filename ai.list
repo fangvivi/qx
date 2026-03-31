@@ -1,5 +1,65 @@
-# ai
+# chatGPT
 host-suffix, openai.com
-host, gemini.google.com
 host-suffix, chatgpt.com
+host-suffix, chat.com
+host-suffix, oaistatic.com
+host-suffix, oaiusercontent.com
+host, chatgpt.livekit.cloud
+host, host.livekit.cloud
+host-suffix, turn.livekit.cloud
+host, openai.com.cdn.cloudflare.net
+host, openaiapi-site.azureedge.net
+host, openaicomproductionae4b.blob.core.windows.net
+host, production-openaicom-storage.azureedge.net
+
+# Gemini
+host, gemini.google.com
+host, ai.google.dev
+host, aida.googleapis.com
+host, aistudio.google.com
+host, alkalicore-pa.clients6.google.com
+host, alkalimakersuite-pa.clients6.google.com
+host, bard.google.com
+host, deepmind.com
+host, deepmind.google
+host, geller-pa.googleapis.com
+host, generativeai.google
+host, generativelanguage.googleapis.com
+host, makersuite.google.com
+host, proactivebackend-pa.googleapis.com
+
+# Apple Intelligence
+host-suffix,apple-relay.apple.com
+host-suffix,apple-relay.fastly-edge.com
+host-suffix,apple-relay.cloudflare.com
+host-suffix,gateway.icloud.com
+host-suffix,guzzoni.apple.com
+host-suffix,cp4.cloudflare.com
+host-suffix,gspe1-ssl.ls.apple.com
+host-suffix,apps.mzstatic.com
+
+# Grok
+host, api.x.ai
+host, x.ai
+host-suffix, grok.com
+
+# Claude
+host-suffix, claude.ai
+host-suffix, anthropic.com
+host-suffix, claudeusercontent.com
+IP-CIDR, 160.79.104.0/23, no-resolve
+IP6-CIDR, 2607:6bc0::/48, no-resolve
+
+# GitHub Copilot
+host, api.githubcopilot.com
+host, copilot-proxy.githubusercontent.com
+host, copilot.microsoft.com
+host, sydney.bing.com
+host-suffix, githubcopilot.com
+
+# Perplexity AI
+host-suffix, pplx.ai
+host-suffix, perplexity.ai
+host-suffix, perplexity.com
+
 
