@@ -29,14 +29,14 @@ host, makersuite.google.com
 host, proactivebackend-pa.googleapis.com
 
 # Apple Intelligence
-host-suffix,apple-relay.apple.com
-host-suffix,apple-relay.fastly-edge.com
-host-suffix,apple-relay.cloudflare.com
-host-suffix,gateway.icloud.com
-host-suffix,guzzoni.apple.com
-host-suffix,cp4.cloudflare.com
-host-suffix,gspe1-ssl.ls.apple.com
-host-suffix,apps.mzstatic.com
+# host-suffix,apple-relay.apple.com
+# host-suffix,apple-relay.fastly-edge.com
+# host-suffix,apple-relay.cloudflare.com
+# host-suffix,gateway.icloud.com
+# host-suffix,guzzoni.apple.com
+# host-suffix,cp4.cloudflare.com
+# host-suffix,gspe1-ssl.ls.apple.com
+# host-suffix,apps.mzstatic.com
 
 # Grok
 host, api.x.ai
